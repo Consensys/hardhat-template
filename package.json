@@ -1,5 +1,5 @@
 {
-  "name": "hardhat-project",
+  "name": "@consensys/hardhat-project",
   "devDependencies": {
     "@nomicfoundation/hardhat-ignition": "^0.15.8",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
